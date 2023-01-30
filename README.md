@@ -1,5 +1,3 @@
-### Hello there 👋
-
 ![72uGy.gif](https://github.com/ntr94/ntr94/blob/main/72uG.gif)
 
 <!--
