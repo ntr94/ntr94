@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+https://media.tenor.com/EJ5ezT8nTdoAAAAC/hello-there-obi-wan.gif
 
 <!--
 **ntr94/ntr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
