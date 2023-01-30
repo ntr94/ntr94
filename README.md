@@ -1,6 +1,6 @@
 ![72uGy.gif](https://github.com/ntr94/ntr94/blob/main/72uG.gif)
 
-I'm Ignacio Torralba
+# I'm Ignacio Torralba
 
 ### FOLLOW ME ✍️
 
