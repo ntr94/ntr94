@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![72uGy.gif]()
+![[72uGy.gif](https://github.com/ntr94/ntr94/blob/main/72uG.gif)]()
 
 <!--
 **ntr94/ntr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
