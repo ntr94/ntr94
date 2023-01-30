@@ -1,8 +1,10 @@
 ![72uGy.gif](https://github.com/ntr94/ntr94/blob/main/72uG.gif)
 
+I'm Ignacio Torralba
+
 ### FOLLOW ME ✍️
 
-(https://github-readme-stats.vercel.app/api?username=Demstalferez&theme=dracula)](https://github.com/Demstalferez) ###  Random Dev Quote 
+[Linkedln](https://www.linkedin.com/in/ignaciotorralbaruiz/))
 
 
 
