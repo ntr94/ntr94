@@ -10,4 +10,4 @@
 
 ## 📉 Stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apintr94=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/ntr94=DenverCoder1)](https://git.io/streak-stats)
